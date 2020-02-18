@@ -1,2 +1,4 @@
 Name - Armen 
+phone - 082300000307
 Address - Bandung
+Hoby - Sports
