@@ -1,4 +1,4 @@
-name - Armen from padang
+name - Armen
 phone - 082300000307
-address - Bandung
+address - jakarta
 
